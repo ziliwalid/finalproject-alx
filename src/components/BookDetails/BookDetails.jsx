@@ -1,0 +1,1 @@
+/*componnt for detail books */
