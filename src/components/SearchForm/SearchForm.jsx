@@ -31,7 +31,7 @@ const SearchForm = () => {
             <div className='search-form-elem flex flex-sb bg-white'>
               <input id='placeHolder' type = "text" className='form-control' placeholder='The legend of Zelda Hyrule Historia..' ref = {searchText} />
               <button type = "submit" className='flex flex-c' onClick={handleSubmit}>
-                <FaSearch className='text-purple' size = {32} />
+              <FaSearch className='text-light-green' size={32} style={{ color: '#90ee90' }} />
               </button>
             </div>
           </form>

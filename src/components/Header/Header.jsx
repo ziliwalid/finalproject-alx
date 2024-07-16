@@ -9,8 +9,8 @@ const Header = () => {
         <header className='header'>
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
-                <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae sapiente quibusdam consequatur perspiciatis facere laboriosam non nesciunt at id repudiandae, modi iste? Eligendi, rerum!</p>
+                <h2 className='header-title text-capitalize'>Get transported to another world reader</h2><br />
+                <p className='header-text fs-17 fw-4'>Welcome to HyrulianArchive, the ultimate online library dedicated to the world of The Legend of Zelda. Explore an extensive collection of lore, maps, and guides that span every game in the series. Join fellow adventurers in uncovering the secrets of Hyrule!</p>
                 <SearchForm />
             </div>
         </header>

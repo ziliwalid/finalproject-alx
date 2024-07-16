@@ -42,7 +42,7 @@
     transition: var(--transition);
 }
 .nav-link:hover{
-    color: var(--purple-color);
+    color: green;
 }
 
 @media screen and (min-width: 992px){
